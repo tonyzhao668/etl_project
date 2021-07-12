@@ -11,7 +11,7 @@ This ETL project aims to provide relevant data for all the roadworks current und
 
 **Roadwork Map:**
 
-![Road Map](images/roadprojects)
+![Road Map](images/roadprojects.PNG)
 
 ## Project SCOPE
 
