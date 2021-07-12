@@ -1,5 +1,5 @@
 -- Create Two Tables
-CREATE TABLE roadworks_details(
+REATE TABLE roadworks_details(
   Id int PRIMARY KEY,
   StartDate Date,
   FinishDate Date,
