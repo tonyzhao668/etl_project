@@ -9,6 +9,10 @@
 
 This ETL project aims to provide relevant data for all the roadworks current undertaken by Mainroads across Perth Metropolitan Area, within the scope requested by our ‘client’, whose main proposal aims to assess the disruption of the roadworks on the commercial activities and community events in each suburb.
 
+**Roadwork Map:**
+
+![Road Map](images/roadprojects)
+
 ## Project SCOPE
 
 Extract the following from mrwa-roadworks dataset:
